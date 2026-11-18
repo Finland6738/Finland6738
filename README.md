@@ -1,6 +1,6 @@
 # Hi, I'm Finland 🎲🎮
 
-**Software & Agentic Engineer** who builds for games: video games, tabletop games and the stories behind them.
+**Software & Agentic Engineer** passionate for: video games, tabletop games and the stories behind them.
 
 I like turning ideas into playable things fast: design a mechanic, prototype it, play it, break it, iterate.
 Lately that means a lot of **vibe coding** with AI agents and **fine-tuning models** to help with design, writing and tooling.
@@ -18,11 +18,7 @@ Lately that means a lot of **vibe coding** with AI agents and **fine-tuning mode
 | [azeroth-guild-finder](https://github.com/Finland6738/azeroth-guild-finder) | In-game guild finder addon for WoW: Forever. Browse, filter and apply to guilds, all peer-to-peer. |
 | [azeroth-unspoken](https://github.com/Finland6738/azeroth-unspoken) | An immersive narrative companion that brings untold stories to life inside the game. |
 | [wow-forever-game-design-proposal](https://github.com/Finland6738/wow-forever-game-design-proposal) | A community design proposal: group-first adventures, horizontal progression, a living world. |
-| [DnD-MareeNere](https://github.com/Finland6738/DnD-MareeNere) | A D&D campaign/setting: *Maree Nere* (Black Tides). |
-| [unreal5_blueprints](https://github.com/Finland6738/unreal5_blueprints) | Unreal Engine 5 Blueprint experiments and prototypes. |
 
-### 🧰 Tools I use
-`Lua` · `Python` · `Unreal Engine 5` · `Blueprints` · `AI agents` · `LLM fine-tuning` · `Claude Code`
 
 ### 💼 Open to work
 I'm looking for opportunities in the **games industry**: game development, technical/game design, prototyping, narrative tools or AI for games.
