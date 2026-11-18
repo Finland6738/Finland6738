@@ -1,4 +1,5 @@
 # Hi, I'm Finland 🎲🎮
+*This is my game-dev space: personal projects, prototypes and experiments around games, tabletop and storytelling. My day job is software engineering on enterprise systems.*
 
 **Software & Agentic Engineer** passionate for: video games, tabletop games and the stories behind them.
 
@@ -18,7 +19,6 @@ Lately that means a lot of **vibe coding** with AI agents and **fine-tuning mode
 | [azeroth-guild-finder](https://github.com/Finland6738/azeroth-guild-finder) | In-game guild finder addon for WoW: Forever. Browse, filter and apply to guilds, all peer-to-peer. |
 | [azeroth-unspoken](https://github.com/Finland6738/azeroth-unspoken) | An immersive narrative companion that brings untold stories to life inside the game. |
 | [wow-forever-game-design-proposal](https://github.com/Finland6738/wow-forever-game-design-proposal) | A community design proposal: group-first adventures, horizontal progression, a living world. |
-
 
 ### Open to work
 I'm looking for opportunities in the **games industry**: game development, technical/game design, prototyping, narrative tools or AI for games.
