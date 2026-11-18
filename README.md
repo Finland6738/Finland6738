@@ -1,13 +1,13 @@
 # Hi, I'm Finland 🎲🎮
-*This is my game-dev space: personal projects, prototypes and experiments around games, tabletop and storytelling. My day job is software engineering on enterprise systems.*
 
-**Software & Agentic Engineer** passionate for: video games, tabletop games and the stories behind them.
+### **Software & Agentic Engineer** passionate about: video games, tabletop games and the stories behind them.
+*This is my game-dev space: personal projects, prototypes and experiments around games, tabletop and storytelling. My day job is software engineering on enterprise systems.*
 
 I like turning ideas into playable things fast: design a mechanic, prototype it, play it, break it, iterate.
 Lately that means a lot of **vibe coding** with AI agents and **fine-tuning models** to help with design, writing and tooling.
 
 ### What I work on
-- **Game design & prototyping**: mechanics, progression systems, rapid prototypes (Unreal Engine 5 Blueprints)
+- **Game design & prototyping**: mechanics, progression systems, rapid prototypes
 - **Game mods & addons**: World of Warcraft addons in Lua, peer-to-peer, no server needed
 - **Tabletop & TTRPG**: campaigns, rules and worlds for D&D and board games
 - **Narrative & lore**: worldbuilding, characters, quests and the "unspoken" stories in between
